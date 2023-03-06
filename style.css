@@ -1,0 +1,29 @@
+.carousel-item {
+    width: 800px;
+    height: 500px;
+    transition: 0.5s;
+  }
+  
+  .carousel {
+    width: 800px;
+    height: 500px;
+  }
+  img {
+    width: 800px;
+    height: 500px;
+    opacity: 0.9;
+    border-radius: 30px;
+  }
+  body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    /* background-image: url("./1920x1080-4570235-interstellar-movie-film-stills-movies.png"); */
+    background-color: #00FFFF;
+    background-size: cover;
+    background-position: center;
+  }
+  
